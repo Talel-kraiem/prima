@@ -28,3 +28,5 @@ Prima can assist you from your simple index.js page to your most complexe web ap
 ## Roadmap
 
 - Menu bar component
+- Built in simple 2d physics engine for fast realistic animations
+- Integration for html canvas
