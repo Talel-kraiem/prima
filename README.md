@@ -1,4 +1,3 @@
-
 # Prima
 
 A production ready JavaScript GUI library designed to bring the potential for desktop quality software to the Web.
@@ -11,4 +10,10 @@ A production ready JavaScript GUI library designed to bring the potential for de
 ## Authors
 
 - [@Talel-kraiem](https://github.com/Talel-kraiem)
+
+
+## Demo
+
+Prima can assist you from your simple index.js page to your most complexe web app
+
 
